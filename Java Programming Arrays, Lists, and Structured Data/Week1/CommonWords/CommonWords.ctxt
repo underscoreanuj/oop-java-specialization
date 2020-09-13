@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CommonWords
+comment1.params=
+comment1.target=java.lang.String[]\ getCommon()
+comment2.params=list\ word
+comment2.target=int\ indexOf(java.lang.String[],\ java.lang.String)
+comment3.params=resource\ common\ counts
+comment3.target=void\ countWords(edu.duke.FileResource,\ java.lang.String[],\ int[])
+comment4.params=
+comment4.target=void\ countShakespeare()
+comment5.params=word
+comment5.target=java.lang.String\ processWord(java.lang.String)
+comment6.params=
+comment6.target=void\ countCommonWordLength()
+numComments=7
